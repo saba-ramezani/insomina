@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="rxjava-2.2.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/rxjava-2.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpcore5-h2-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpcore5-testing-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpcore5-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpclient5-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpclient5-cache-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jna-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpcore5-reactive-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/svgSalamander-1.1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpclient5-win-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jna-5.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/flatlaf-0.35.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/reactive-streams-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jna-platform-5.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpclient5-testing-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/commons-codec-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/jxlayer-3.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/commons-cli-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/httpclient5-fluent-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/org.json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
